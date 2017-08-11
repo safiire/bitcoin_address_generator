@@ -1,0 +1,13 @@
+name: bitcoin_address
+version: 0.1.0
+
+authors:
+  - Safiire <safiire@gmail.com>
+
+targets:
+  bitcoin_address:
+    main: src/bitcoin_address.cr
+
+crystal: 0.23.1
+
+license: MIT
